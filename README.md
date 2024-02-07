@@ -8,7 +8,7 @@
 
 - **Execution de la fonction dans Go Live** : KATA/index.html (resultats de la fonction fizzbuzz affichés dans la console de l'inspecteur)
 
-- **lancement de JEST** : se positionner dans "\KATA\test>" et lancer "npx jest"
+- **lancement de JEST** : lancer "npx jest" de la racine du projet ou du dossier test
 
 - **documentation JEST** : https://jestjs.io/fr/docs/getting-started
 
