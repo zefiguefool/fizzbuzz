@@ -4,7 +4,7 @@
 
 - **Version de Jest** : 29.7.0
 
-- **Version de Babel/preset-env** : 7.23.9"
+- **Version de Babel/preset-env** : 7.23.9
 
 - **Execution de la fonction dans Go Live** : KATA/index.html (resultats de la fonction fizzbuzz affichés dans la console de l'inspecteur)
 
