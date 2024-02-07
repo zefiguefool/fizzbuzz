@@ -10,3 +10,6 @@
 
 - **lancement de JEST** : se positionner dans "\KATA\test>" et lancer "npx jest"
 
+- **documantation JEST** : https://jestjs.io/fr/docs/getting-started
+
+- **tuto JEST** : https://grafikart.fr/tutoriels/jest-test-framework-1202#autoplay
